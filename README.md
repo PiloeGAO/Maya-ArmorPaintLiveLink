@@ -3,7 +3,7 @@
 This addon is the current implementation of live link for [ArmorPaint](armorpaint.org) inside of Autodesk Maya 2018+
 
 ![](UI.png)
-**Figure 2** - Script UI
+**Figure 1** - Script UI
 
 ## Getting Started
 
