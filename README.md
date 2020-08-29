@@ -15,9 +15,13 @@ Download the latest version of ArmorPaint.
 
 1. Clone the repository
 2. Copy the "pyArmorPaint_livelink.py" and the icon folder inside of "MayaPrefDirectory/maya/scripts/"
-3. To invoke the script, run the following python:
+3. To invoke the script, run the following python lines:
+
+```
 import pyArmorPaint_livelink
-\n pyArmorPaint_livelink.show()
+pyArmorPaint_livelink.show()
+```
+
 4. Click on the wheel icon, then go to the ArmorPaint installation folder (The window will close)
 5. Re-invoke the script
 6. Select your object (he need to be unwrapped) and click on the ArmorPaint Logo inside of the UI.
